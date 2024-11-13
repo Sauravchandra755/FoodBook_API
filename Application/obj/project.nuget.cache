@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7xgNYVkWy22G441esXwTgL3ymbaA8fUk3zjeMmXEOoM+jWjSZ4kEd0v114SEoWfdhgx44RNAsBpq+TjczRQRzQ==",
+  "success": true,
+  "projectFilePath": "C:\\FoodBook\\POC_FoodBook\\FoodBook_API\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M1087977\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\M1087977\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\M1087977\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

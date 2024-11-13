@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FoodBook_API.props" />
+</Project>
